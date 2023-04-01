@@ -10,6 +10,11 @@ public class Main {
         X.cylinder="8";
         X.size="1234cc";
         X.weight="6453";
+
+        lights neon=new lights();
+        neon.color="red";
+        neon.size="15cm";
+        neon.intensity="667lumen";
         
     }
 }
